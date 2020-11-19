@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, or how we say in nothern Germany, moin 👋
+
+- 📫 How to reach me:
+  - Company: https://www.aventer.biz
+  - Mastodon: https://mastodon.aventer.biz/@andreas  
+  - Matrix Chat: https://app.element.io/#/room/#support:matrix.aventer.biz
+ 
 
 <!--
 **andreaspeters/andreaspeters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
