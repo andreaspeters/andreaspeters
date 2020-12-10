@@ -4,7 +4,7 @@
   - Company: https://www.aventer.biz
   - Mastodon: https://mastodon.aventer.biz/@andreas  
   - Matrix Chat: https://app.element.io/#/room/#support:matrix.aventer.biz
-  - Master Git Repo: https://github.com/AVENTER-UG
+  - Main Git Repo: https://github.com/AVENTER-UG
  
 
 <!--
