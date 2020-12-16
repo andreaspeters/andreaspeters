@@ -5,6 +5,7 @@
   - Mastodon: https://mastodon.aventer.biz/@andreas  
   - Matrix Chat: https://app.element.io/#/room/#support:matrix.aventer.biz
   - Main Git Repo: https://github.com/AVENTER-UG
+  - Xing: https://www.xing.com/profile/Andreas_Peters35
  
 
 <!--
