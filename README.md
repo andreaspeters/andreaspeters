@@ -1,5 +1,7 @@
 ### Hi there, or how we say in nothern Germany, moin 👋
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andreaspeters&show_icons=true&theme=dark)
+
 - 📫 How to reach me:
   - Company: https://www.aventer.biz
   - Mastodon: https://mastodon.aventer.biz/@andreas  
