@@ -1,14 +1,14 @@
 ### Hi there, or how we say in nothern Germany, moin 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andreaspeters&show_icons=true&theme=dark)
-
 - 📫 How to reach me:
   - Company: https://www.aventer.biz
   - Mastodon: https://mastodon.aventer.biz/@andreas  
   - Matrix Chat: https://app.element.io/#/room/#support:matrix.aventer.biz
   - Main Git Repo: https://github.com/AVENTER-UG
   - Xing: https://www.xing.com/profile/Andreas_Peters35
- 
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andreaspeters&show_icons=true&theme=dark)
 
 <!--
 **andreaspeters/andreaspeters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
