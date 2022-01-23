@@ -8,6 +8,15 @@
   - Xing: https://www.xing.com/profile/Andreas_Peters35
 - [:heart: Github Sponsor](https://github.com/sponsors/AVENTER-UG)
 
+## Development Roadmap
+
+- M3s, the Kubernetes Framework for Apache Mesos  (ongoing)
+- Mesos-Compose Framework for Apache Mesos to replace Marathon (ongoing)
+- Apache Mesos provider for Apache Airflow (ongoing)
+- Apache Mesos provider for traefik (ongoing)
+- eBPF service for Apache Mesos (in planig)
+- Firecracker executor for Apache Mesos (in planing)
+
 
 <!--
 **andreaspeters/andreaspeters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
