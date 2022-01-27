@@ -10,11 +10,11 @@
 
 #### Development Roadmap
 
-- M3s, the Kubernetes Framework for Apache Mesos  (ongoing)
-- Mesos-Compose Framework for Apache Mesos to replace Marathon (ongoing)
+- M3s, the Kubernetes framework for Apache Mesos  (ongoing)
+- Mesos-Compose framework for Apache Mesos to replace Marathon (ongoing)
 - Apache Mesos provider for Apache Airflow (ongoing)
-- Apache Mesos provider for traefik (ongoing)
-- eBPF service for Apache Mesos (in planig)
+- Apache Mesos provider for Traefik (ongoing)
+- eBPF service for Apache Mesos (in planing)
 - Firecracker executor for Apache Mesos (in planing)
 
 
