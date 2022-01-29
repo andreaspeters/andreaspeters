@@ -14,8 +14,9 @@
 - Mesos-Compose framework for Apache Mesos to replace Marathon (ongoing)
 - Apache Mesos provider for Apache Airflow (ongoing)
 - Apache Mesos provider for Traefik (ongoing)
-- eBPF service for Apache Mesos (in planing)
-- Firecracker executor for Apache Mesos (in planing)
+- eBPF service for Apache Mesos (in planning)
+- Firecracker executor for Apache Mesos (in planning)
+- Apache Mesos on SoC (in planning)
 
 
 <!--
