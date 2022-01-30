@@ -8,12 +8,14 @@
   - Xing: https://www.xing.com/profile/Andreas_Peters35
 - [:heart: Github Sponsor](https://github.com/sponsors/AVENTER-UG)
 
-#### Development Roadmap
+#### Products under development 
 
 - M3s, the Kubernetes framework for Apache Mesos  (ongoing)
 - Mesos-Compose framework for Apache Mesos to replace Marathon (ongoing)
 - Apache Mesos provider for Apache Airflow (ongoing)
 - Apache Mesos provider for Traefik (ongoing)
+- Docker Volume service for S3 (ongoing)
+- Docker Volume service for RBD (ongoing) 
 - eBPF service for Apache Mesos (in planning)
 - Firecracker executor for Apache Mesos (in planning)
 - Apache Mesos on SoC (in planning)
