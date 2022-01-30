@@ -1,6 +1,6 @@
 ### Hi there, or how we say in nothern Germany, moin 👋
 
-- 📫 How to reach me:
+#### 📫 How to reach me:
   - Company: https://www.aventer.biz
   - Mastodon: https://mastodon.aventer.biz/@andreas  
   - Matrix Chat: https://matrix.to/#/#support:matrix.aventer.biz?via=matrix.aventer.biz
@@ -8,7 +8,7 @@
   - Xing: https://www.xing.com/profile/Andreas_Peters35
 - [:heart: Github Sponsor](https://github.com/sponsors/AVENTER-UG)
 
-#### Products under development 
+#### 🔭 Products under development 
 
 - M3s, the Kubernetes framework for Apache Mesos  (ongoing)
 - Mesos-Compose framework for Apache Mesos to replace Marathon (ongoing)
@@ -16,6 +16,9 @@
 - Apache Mesos provider for Traefik (ongoing)
 - Docker Volume service for S3 (ongoing)
 - Docker Volume service for RBD (ongoing) 
+
+#### 🌱 Products in planning
+
 - eBPF service for Apache Mesos (in planning)
 - Firecracker executor for Apache Mesos (in planning)
 - Apache Mesos on SoC (in planning)
