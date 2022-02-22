@@ -10,12 +10,12 @@
 
 #### 🔭 Products under development 
 
-- M3s, the Kubernetes framework for Apache Mesos  (ongoing)
-- Mesos-Compose framework for Apache Mesos to replace Marathon (ongoing)
-- Apache Mesos provider for Apache Airflow (ongoing)
-- Apache Mesos provider for Traefik (ongoing)
-- Docker Volume service for S3 (ongoing)
-- Docker Volume service for RBD (ongoing) 
+- [M3s, the Kubernetes framework for Apache Mesos  (ongoing)](https://www.aventer.biz/products/m3s/)
+- [Mesos-Compose framework for Apache Mesos to replace Marathon (ongoing)](https://www.aventer.biz/products/mesos-compose/)
+- [Apache Mesos provider for Apache Airflow (ongoing)](https://www.aventer.biz/products/apache-airflow/)
+- [Apache Mesos provider for Traefik (ongoing)](https://www.aventer.biz/products/traefik/)
+- [Docker Volume service for S3 (ongoing)](https://www.aventer.biz/products/docker-volume-s3/)
+- [Docker Volume service for RBD (ongoing)](https://www.aventer.biz/products/docker-volume-rdb/)
 
 #### 🌱 Products in planning
 
