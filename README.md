@@ -16,6 +16,7 @@
 - [Apache Mesos provider for Traefik (ongoing)](https://www.aventer.biz/products/traefik/)
 - [Docker Volume service for S3 (ongoing)](https://www.aventer.biz/products/docker-volume-s3/)
 - [Docker Volume service for RBD (ongoing)](https://www.aventer.biz/products/docker-volume-rdb/)
+- [Docker Extension for Apache Mesos (ongoing)(https://www.aventer.biz/products/docker-mesos-extension/)
 
 #### 🌱 Products in planning
 
