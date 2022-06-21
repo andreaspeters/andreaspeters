@@ -10,19 +10,19 @@
 
 #### 🔭 Products under development 
 
-- [M3s, the Kubernetes framework for Apache Mesos  (ongoing)](https://www.aventer.biz/products/m3s/)
-- [Mesos-Compose framework for Apache Mesos to replace Marathon (ongoing)](https://www.aventer.biz/products/mesos-compose/)
-- [Apache Mesos provider for Apache Airflow (ongoing)](https://www.aventer.biz/products/apache-airflow/)
-- [Apache Mesos provider for Traefik (ongoing)](https://www.aventer.biz/products/traefik/)
-- [Docker Volume service for S3 (ongoing)](https://www.aventer.biz/products/docker-volume-s3/)
-- [Docker Volume service for RBD (ongoing)](https://www.aventer.biz/products/docker-volume-rdb/)
-- [Docker Extension for Apache Mesos (ongoing)](https://www.aventer.biz/products/docker-mesos-extension/)
-- Firecracker executor for Apache Mesos (on going)
+- [M3s, the Kubernetes framework for Apache Mesos](https://www.aventer.biz/products/m3s/)
+- [Mesos-Compose framework for Apache Mesos to replace Marathon](https://www.aventer.biz/products/mesos-compose/)
+- [Apache Mesos provider for Apache Airflow](https://www.aventer.biz/products/apache-airflow/)
+- [Apache Mesos provider for Traefik](https://www.aventer.biz/products/traefik/)
+- [Docker Volume service for S3](https://www.aventer.biz/products/docker-volume-s3/)
+- [Docker Volume service for RBD](https://www.aventer.biz/products/docker-volume-rdb/)
+- [Docker Extension for Apache Mesos](https://www.aventer.biz/products/docker-mesos-extension/)
+- [Firecracker executor for Apache Mesos](https://www.aventer.biz/products/mesos-firecracker/)
 
 #### 🌱 Products in planning
 
-- eBPF service for Apache Mesos (in planning)
-- Apache Mesos on SoC (in planning)
+- eBPF service for Apache Mesos
+- Apache Mesos on SoC
 
 
 <!--
