@@ -17,11 +17,11 @@
 - [Docker Volume service for S3 (ongoing)](https://www.aventer.biz/products/docker-volume-s3/)
 - [Docker Volume service for RBD (ongoing)](https://www.aventer.biz/products/docker-volume-rdb/)
 - [Docker Extension for Apache Mesos (ongoing)](https://www.aventer.biz/products/docker-mesos-extension/)
+- Firecracker executor for Apache Mesos (on going)
 
 #### 🌱 Products in planning
 
 - eBPF service for Apache Mesos (in planning)
-- Firecracker executor for Apache Mesos (in planning)
 - Apache Mesos on SoC (in planning)
 
 
