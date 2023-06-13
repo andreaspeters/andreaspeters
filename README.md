@@ -6,6 +6,8 @@
   - Matrix Chat: https://matrix.to/#/#support:matrix.aventer.biz?via=matrix.aventer.biz
   - Main Git Repo: https://github.com/AVENTER-UG
   - Xing: https://www.xing.com/profile/Andreas_Peters35
+  - LinkedIn: https://www.linkedin.com/in/aventer-ug/
+  - Docker Hub: https://hub.docker.com/u/avhost
 - [:heart: Github Sponsor](https://github.com/sponsors/AVENTER-UG)
 
 #### 🔭 Products under development 
