@@ -9,9 +9,11 @@
   - LinkedIn: https://www.linkedin.com/in/aventer-ug/
   - Docker Hub: https://hub.docker.com/u/avhost
 - [:heart: Github Sponsor](https://github.com/sponsors/AVENTER-UG)
+- [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=ZDB5ZSNJNK9XQ)
 
 #### 🔭 Products under development 
 
+- [APRS Map](https://github.com/andreaspeters/aprsmap)
 - [M3s, the Kubernetes framework for Apache Mesos](https://www.aventer.biz/products/m3s/)
 - [Mesos-Compose framework for Apache Mesos to replace Marathon](https://www.aventer.biz/products/mesos-compose/)
 - [Apache Mesos provider for Apache Airflow](https://www.aventer.biz/products/apache-airflow/)
