@@ -13,6 +13,7 @@
 
 #### 🔭 Products under development 
 
+- [FlexPacket, a Packet Radio (AX25) Client](https://github.com/andreaspeters/flexpacket)
 - [APRS Map](https://github.com/andreaspeters/aprsmap)
 - [M3s, the Kubernetes framework for Apache Mesos](https://www.aventer.biz/products/m3s/)
 - [Mesos-Compose framework for Apache Mesos to replace Marathon](https://www.aventer.biz/products/mesos-compose/)
