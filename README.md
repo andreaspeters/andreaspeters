@@ -11,10 +11,13 @@
 - [:heart: Github Sponsor](https://github.com/sponsors/AVENTER-UG)
 - [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=ZDB5ZSNJNK9XQ)
 
-#### 🔭 Products under development 
+#### 🔭 Software under development 
 
+##### Private
 - [FlexPacket, a Packet Radio (AX25) Client](https://github.com/andreaspeters/flexpacket)
 - [APRS Map](https://github.com/andreaspeters/aprsmap)
+
+##### Company
 - [M3s, the Kubernetes framework for Apache Mesos](https://www.aventer.biz/products/m3s/)
 - [Mesos-Compose framework for Apache Mesos to replace Marathon](https://www.aventer.biz/products/mesos-compose/)
 - [Apache Mesos provider for Apache Airflow](https://www.aventer.biz/products/apache-airflow/)
@@ -23,6 +26,10 @@
 - [Docker Extension for Apache Mesos](https://www.aventer.biz/products/docker-mesos-extension/)
 - [Firecracker executor for Apache Mesos](https://www.aventer.biz/products/mesos-firecracker/)
 - [Tensorflow for Apache Mesos](https://github.com/AVENTER-UG/tensorflow-mesos/)
+
+
+#### 🙏 Thanks for your donation
+-   Kelvin
 
 <!--
 **andreaspeters/andreaspeters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
