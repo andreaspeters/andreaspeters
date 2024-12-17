@@ -18,6 +18,7 @@
 - [APRS Map](https://github.com/andreaspeters/aprsmap)
 
 ##### Company
+- [ClusterD, the continues developing of Apache Mesos](https://github.com/m3scluster/clusterd)
 - [M3s, the Kubernetes framework for Apache Mesos](https://www.aventer.biz/products/m3s/)
 - [Mesos-Compose framework for Apache Mesos to replace Marathon](https://www.aventer.biz/products/mesos-compose/)
 - [Apache Mesos provider for Apache Airflow](https://www.aventer.biz/products/apache-airflow/)
@@ -28,8 +29,8 @@
 - [Tensorflow for Apache Mesos](https://github.com/AVENTER-UG/tensorflow-mesos/)
 
 
-#### 🙏 Thanks for your donation
--   Kelvin
+#### 🙏 Thanks so much for your donation
+-  (private) Kelvin
 
 <!--
 **andreaspeters/andreaspeters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
