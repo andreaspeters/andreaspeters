@@ -30,7 +30,7 @@
 
 
 #### 🙏 Thanks so much for your donation
--  (private) Kelvin
+-  Kelvin (N0MQL)
 
 <!--
 **andreaspeters/andreaspeters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
