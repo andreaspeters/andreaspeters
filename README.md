@@ -16,6 +16,7 @@
 ##### Private
 - [FlexPacket, a Packet Radio (AX25) Client](https://github.com/andreaspeters/flexpacket)
 - [APRS Map](https://github.com/andreaspeters/aprsmap)
+- [MiniEdit](https://github.com/andreaspeters/miniedit)
 
 ##### Company
 - [ClusterD, the continues developing of Apache Mesos](https://github.com/m3scluster/clusterd)
