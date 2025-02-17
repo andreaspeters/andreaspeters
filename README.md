@@ -18,7 +18,7 @@
 - [APRS Map](https://github.com/andreaspeters/aprsmap)
 - [MiniEdit](https://github.com/andreaspeters/miniedit)
 
-##### Company
+##### Professional
 - [ClusterD, the continues developing of Apache Mesos](https://github.com/m3scluster/clusterd)
 - [M3s, the Kubernetes framework for Apache Mesos](https://www.aventer.biz/products/m3s/)
 - [Mesos-Compose framework for Apache Mesos to replace Marathon](https://www.aventer.biz/products/mesos-compose/)
