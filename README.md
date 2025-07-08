@@ -10,7 +10,9 @@
   - Docker Hub: https://hub.docker.com/u/avhost
 - [:heart: Github Sponsor](https://github.com/sponsors/andreaspeters)
 - [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=ZDB5ZSNJNK9XQ)
-- [![](images/bmc_qr.png){: width="100" }](https://buymeacoffee.com/hamradiotech)
+- <a href="https://buymeacoffee.com/hamradiotech">
+  <img src="images/bmc_qr.png" width="100" alt="Buy me a coffee">
+  </a>
 
 #### 🔭 Software under development 
 
