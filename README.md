@@ -26,16 +26,17 @@
 - [MiniEdit](https://github.com/andreaspeters/miniedit)
 
 ##### Professional
-- [ClusterD, the continues developing of Apache Mesos](https://github.com/m3scluster/clusterd)
-- [M3s, the Kubernetes framework for Apache Mesos](https://www.aventer.biz/products/m3s/)
-- [Mesos-Compose framework for Apache Mesos to replace Marathon](https://www.aventer.biz/products/mesos-compose/)
-- [Apache Mesos provider for Apache Airflow](https://www.aventer.biz/products/apache-airflow/)
-- [Apache Mesos provider for Traefik](https://www.aventer.biz/products/traefik/)
-- [Docker Volume service for S3](https://www.aventer.biz/products/docker-volume-s3/)
-- [Docker Extension for Apache Mesos](https://www.aventer.biz/products/docker-mesos-extension/)
-- [Firecracker executor for Apache Mesos](https://www.aventer.biz/products/mesos-firecracker/)
-- [Tensorflow for Apache Mesos](https://github.com/AVENTER-UG/tensorflow-mesos/)
 
+- [ClusterD, the continues developing of Apache Mesos](https://github.com/m3scluster/clusterd)
+- [M3s, the Kubernetes framework for Apache Mesos](https://github.com/m3scluster/m3s/)
+- [Mesos-Compose framework for Apache Mesos to replace Marathon](https://github.com/m3scluster/compose/)
+- [Apache Mesos provider for Apache Airflow](https://github.com/m3scluster/airflow-provider-mesos)
+- [AWS Autoscaler for Apache Mesos and Apache Airflow](https://github.com/m3scluster/mesos-airflow-autoscaler-aws)
+- [Apache Mesos provider for Traefik](https://github.com/m3scluster/traefik-mesos)
+- [Docker Volume service for S3](https://github.com/AVENTER-UG/docker-volume-s3)
+- [Docker Extension for Apache Mesos](https://github.com/AVENTER-UG/docker-mesos-extension)
+- [Firecracker executor for Apache Mesos](https://github.com/AVENTER-UG/mesos-firecracker-executor)
+- [Tensorflow for Apache Mesos](https://github.com/AVENTER-UG/tensorflow-mesos/)
 
 #### 🙏 Thanks so much for your donation
 -  Kelvin (N0MQL)
