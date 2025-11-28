@@ -24,7 +24,8 @@
 - [OpenBCM](https://github.com/andreaspeters/openBCM)
 
 ###### Tools
-- [MiniEdit](https://github.com/andreaspeters/miniedit)
+- [MiniEdit, Dev-Editor (Linux)](https://github.com/andreaspeters/miniedit)
+- [WDSibyl, Pascal RAD (OS/2)](https://github.com/andreaspeters/wdsibyl-os2)
 
 ##### Professional
 
