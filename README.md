@@ -22,6 +22,7 @@
 - [APRS Map](https://github.com/andreaspeters/aprsmap)
 - [TFKISS](https://github.com/andreaspeters/tfkiss)
 - [OpenBCM](https://github.com/andreaspeters/openBCM)
+- [HAMRadio Dashboard](https://github.com/andreaspeters/enyojs-hamdashboard)
 
 ###### Tools
 - [MiniEdit, Dev-Editor (Linux)](https://github.com/andreaspeters/miniedit)
