@@ -1,9 +1,5 @@
 ### Hi there, or how we say in nothern Germany, moin 👋
 
-#### 🛡️ AI-Free Development Declaration
-
-My projects are designed and implemented *exclusively* by humans. No generative AI–produced code was directly incorporated.
-
 #### 📫 How to reach me:
   - Company: https://www.aventer.biz
   - Mastodon: https://mastodon.aventer.biz/@andreas  
@@ -44,6 +40,13 @@ My projects are designed and implemented *exclusively* by humans. No generative 
 - [Docker Extension for Apache Mesos](https://github.com/AVENTER-UG/docker-mesos-extension)
 - [Firecracker executor for Apache Mesos](https://github.com/AVENTER-UG/mesos-firecracker-executor)
 - [Tensorflow for Apache Mesos](https://github.com/AVENTER-UG/tensorflow-mesos/)
+
+#### 🛡️ AI-Free Development Declaration
+
+My projects are designed and implemented *exclusively* by humans. No generative AI–produced code was directly incorporated.
+
+<img src="images/human_code_no_ai.png" width="200" alt="Human code, no air">
+
 
 #### 🙏 Thanks so much for your donation
 -  Kelvin (N0MQL)
