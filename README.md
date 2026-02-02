@@ -1,5 +1,9 @@
 ### Hi there, or how we say in nothern Germany, moin 👋
 
+#### 🛡️ AI-Free Development Declaration
+
+My projects are designed and implemented *exclusively* by humans. No generative AI–produced code was directly incorporated.
+
 #### 📫 How to reach me:
   - Company: https://www.aventer.biz
   - Mastodon: https://mastodon.aventer.biz/@andreas  
