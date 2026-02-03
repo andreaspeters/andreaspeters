@@ -1,4 +1,10 @@
-### Hi there, or how we say in nothern Germany, moin 👋
+### Hi there, or as we say in Northern Germany, moin. 👋
+
+For over 27 years, I have been working in Linux system administration and backend software development. Initially for eight years as an employee, and later as a freelance consultant and self-employed professional. Over the course of my career, I have specialized in developing efficient and sustainable solutions for scalable and fault-tolerant applications. My core focus lies in the design and implementation of microservices, APIs, and distributed systems.
+
+Throughout my professional career, I have gained extensive experience both in software development and in operating Linux servers within large-scale data centers. I combine deep technical expertise with a strong commitment to stability, performance, and maintainability.
+
+In addition, I am highly motivated to continuously expand my knowledge and actively share it with clients and colleagues. With my motivation, dedication, and many years of technical experience, I am confident in my ability to make a lasting and valuable contribution to projects and teams.
 
 #### 📫 How to reach me:
   - Company: https://www.aventer.biz
@@ -21,7 +27,7 @@
 - [FlexPacket, a Packet Radio (AX25) Client](https://github.com/andreaspeters/flexpacket)
 - [APRS Map](https://github.com/andreaspeters/aprsmap)
 - [TFKISS](https://github.com/andreaspeters/tfkiss)
-- [OpenBCM](https://github.com/andreaspeters/openBCM)
+- [OpenBCM 2.x, a PacketRadio BBS](https://github.com/andreaspeters/openBCM)
 - [HAMRadio Dashboard](https://github.com/andreaspeters/enyojs-hamdashboard)
 
 ###### Tools
