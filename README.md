@@ -4,8 +4,6 @@ For over 27 years, I have been working in Linux system administration and backen
 
 Throughout my professional career, I have gained extensive experience both in software development and in operating Linux servers within large-scale data centers. I combine deep technical expertise with a strong commitment to stability, performance, and maintainability.
 
-In addition, I am highly motivated to continuously expand my knowledge and actively share it with clients and colleagues. With my motivation, dedication, and many years of technical experience, I am confident in my ability to make a lasting and valuable contribution to projects and teams.
-
 #### 📫 How to reach me:
   - Company: https://www.aventer.biz
   - Mastodon: https://mastodon.aventer.biz/@andreas  
