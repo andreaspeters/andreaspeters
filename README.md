@@ -47,7 +47,7 @@ Throughout my professional career, I have gained extensive experience both in so
 
 #### 🛡️ AI-Free Development Declaration
 
-My projects are designed and implemented *exclusively* by humans. No generative AI–produced code was directly incorporated.
+My projects are designed and implemented *exclusively* by humans.
 
 <img src="images/human_code_no_ai.png" width="200" alt="Human code, no air">
 
