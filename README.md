@@ -49,7 +49,7 @@ Throughout my professional career, I have gained extensive experience both in so
 
 My projects are designed and implemented *exclusively* by humans.
 
-<img src="images/human_code_no_ai.png" width="200" alt="Human code, no air">
+<img src="images/human_code_no_ai.png" width="200" alt="Human code, no ai">
 
 
 #### 🙏 Thanks so much for your donation
