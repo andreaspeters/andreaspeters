@@ -54,6 +54,7 @@ My projects are designed and implemented *exclusively* by humans.
 
 #### 🙏 Thanks so much for your donation
 -  Kelvin (N0MQL)
+-  [codepoet80](https://github.com/codepoet80)
 
 <!--
 **andreaspeters/andreaspeters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
