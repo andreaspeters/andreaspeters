@@ -12,6 +12,7 @@ Throughout my professional career, I have gained extensive experience both in so
   - Xing: https://www.xing.com/profile/Andreas_Peters35
   - LinkedIn: https://www.linkedin.com/in/aventer-ug/
   - Docker Hub: https://hub.docker.com/u/avhost
+  - YouTube: https://youtube.com/@DC6AP
 - [:heart: Github Sponsor](https://github.com/sponsors/andreaspeters)
 - [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=ZDB5ZSNJNK9XQ)
 - <a href="https://buymeacoffee.com/hamradiotech">
