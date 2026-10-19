@@ -26,6 +26,7 @@ Throughout my professional career, I have gained extensive experience both in so
 - [FlexPacket, a Packet Radio (AX25) Client](https://github.com/andreaspeters/flexpacket)
 - [APRS Map](https://github.com/andreaspeters/aprsmap)
 - [TFKISS](https://github.com/andreaspeters/tfkiss)
+- [Vacuum-Chat for APRS, MeshCore, Matrix, and XMPP](https://github.com/andreaspeters/vacuum-chat)
 - [OpenBCM 2.x, a PacketRadio BBS](https://github.com/andreaspeters/openBCM)
 - [HAMRadio Dashboard](https://github.com/andreaspeters/enyojs-hamdashboard)
 
